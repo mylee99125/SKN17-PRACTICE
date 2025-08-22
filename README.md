@@ -7,6 +7,10 @@
 #### - 데이터셋: Common Crawl
 모델이 학습한 데이터로, 수십억 개의 웹페이지에서 수집된 방대한 텍스트 데이터입니다. 모델은 이 데이터를 통해 단어의 의미와 단어 간의 관계를 학습했습니다.
 
+#### - Direct Download (Korean)
+https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ko.300.bin.gz 
+-> 압축 해제 후 cc.ko.300.bin 파일 사용
+
 <br>
 
 ### 2. 단어 유추 원리
